@@ -27,7 +27,7 @@ async function main() {
         
         switch(op) {
             case '1':
-
+                function adicionarAluno(nome)
                 break;
             case '2':
 
