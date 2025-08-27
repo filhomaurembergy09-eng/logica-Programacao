@@ -27,28 +27,44 @@ async function main() {
         
         switch(op) {
             case '1':
-                function adicionarAluno(nome)
+                function adicionarAluno(nome) {
+
+                }
                 break;
             case '2':
+               function listarAlunos(){
 
+               }
                 break;
             case '3':
-                
+                function adicionarNotas(nome, notasArray) {
+
+                }
                 break;
             case '4':
+                function calcularMedia(aluno) {
 
+                }
                 break;
             case '5':
+                function mostrarAprovados() {
 
+                }
                 break;
             case '6':
+                function estatisticasTurma() {
 
+                }
                 break;
             case '7':
+                function ordenarPorMedia(arr) {
 
+                }
                 break;
             case '8':
-
+                function removerAluno(nome) {
+                    
+                }
                 break;
             case '9':
                 sair = true;
