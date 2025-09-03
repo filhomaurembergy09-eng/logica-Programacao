@@ -147,8 +147,8 @@ async function main() {
         break;
       default:
         console.log("Opção inválida.");
-    } //aqui sera dada a mensagem quando o usuario fizer a seleção do comando
-  }
+    } 
+  } //aqui sera dada a mensagem quando o usuario fizer a seleção do comando
   readline.close();
 } //função onde sera feita a seleção dos comandos no gerenciador de alunos
 
