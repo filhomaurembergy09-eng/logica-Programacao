@@ -27,17 +27,17 @@ Funcionalidades principais:
    git clone https://github.com/filhomaurembergy09-eng/logica-Programacao.git
 2. Acesse a pasta do projeto:
     ```bash
-    cd ads_gerenciador_de_turmas_SEU_NOME
+    cd logica-Programacao
 3. Execute o programa no terminal: 
     ```bash
-    cd ads_gerenciador_de_turmas_SEU_NOME
+    cd logica-Programacao
 4. Siga as instruções do menu interativo exibido no console.
     ```bash
-    📂 Estrutura do projeto:
+    Estrutura do projeto:
     ├── script.js    #Código principal em Node.js (CLI)
     └── README.md    #Documentação do projeto
 
-    📸 Exemplo de execução:
+    Exemplo de execução:
     ——— Gerenciador de Turma ——
     1) Adicionar aluno
     2) Listar alunos
@@ -52,6 +52,6 @@ Funcionalidades principais:
     Nome do aluno: Maria
     Aluno Maria adicionado.
 
-    👤 Autor:
+    Autor:
     Nome: Maurembergy Oliveira de Castro Filho
     Curso: Análise e Desenvolvimento de Sistemas — IFCE Campus Umirim
