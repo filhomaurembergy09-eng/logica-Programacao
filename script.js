@@ -3,7 +3,7 @@ const readline = require('readline').createInterface({
   output: process.stdout
 });
 
-const alunos = []; // { nome: string, notas: number[] }
+const alunos = [];
 
 function pergunta(q) {
   return new Promise(resolve => {
