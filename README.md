@@ -24,7 +24,7 @@ Funcionalidades principais:
 ### Passo a passo
 1. Clone ou baixe este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/ads_gerenciador_de_turmas_SEU_NOME.git
+   git clone https://github.com/filhomaurembergy09-eng/logica-Programacao.git
 2. Acesse a pasta do projeto:
     ```bash
     cd ads_gerenciador_de_turmas_SEU_NOME
